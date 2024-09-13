@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\AgendaDesafio2.props" />
+</Project>
